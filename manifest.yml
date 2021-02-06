@@ -1,0 +1,8 @@
+---
+applications:
+
+ 
+ - name: Movie Review Analysis
+   random-route: true
+   memory: 115M
+   disk_quota: 256M
